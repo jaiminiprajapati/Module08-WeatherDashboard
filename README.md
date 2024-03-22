@@ -6,7 +6,7 @@ The Weather Dashboard is a web application that allows users to check the curren
 
 ## Deployed Page
 
-[Visit Page]()
+[Visit Page](https://jaiminiprajapati.github.io/Module08-WeatherDashboard/)
 
 ## GitHub Repo
 
